@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Pink Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quarter from Raldi",
+    "region": "Story Mode",
+    "category": [
+      "Story Items"
+    ],
+    "requires": "|Progressive Notebook (Story):1|"
+  },
+  {
+    "name": "Dark Blue Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "3rd Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "4th Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "5th Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "6th Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "7th Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "8th Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "9th Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Brown (10th) Notebook (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Story):2| AND |Hammer for Sticky Situations|"
+  },
+  {
+    "name": "1st Exit (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Exits"
+    ],
+    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+  },
+  {
+    "name": "2nd Exit (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Exits"
+    ],
+    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+  },
+  {
+    "name": "3rd Exit (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Exits"
+    ],
+    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+  },
+  {
+    "name": "4th Exit (Story)",
+    "region": "Story Mode",
+    "category": [
+      "Story Exits"
+    ],
+    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+  },
+  {
+    "name": "Beat Story Mode",
+    "region": "Story Mode",
+    "category": [
+      "Exits"
+    ],
+    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|",
+    "victory": true
+  },
+  {
+    "name": "Alarm Clock",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Big Ol' Boots",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "BSODA",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Energy Flavored Zesty Bar",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Swinging Door Lock",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Principal's Keys",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "WD-NoSquee",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "15 Second Energy",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Crackpipe from Walter White",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Ender Pearl",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "GameBoy Color",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2| AND |Balls Poster Access|"
+  },
+  {
+    "name": "Get Out of Jail Free Card",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Glock",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Hammer for Sticky Situations",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "iPhone",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Monkenator",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "MrBeast's Credit Card",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Mystery Tape",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Polish Cow Marker",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Polish Milk",
+    "region": "Story Mode",
+    "category": [
+      "Items"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Arts (Mexicano) Crafters",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Chipfloke",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Christian 1st Prize",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Pet the Dog",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2| AND |Balls Poster Access|"
+  },
+  {
+    "name": "Gotta Weep",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Gustav",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2| AND |Monkenator|"
+  },
+  {
+    "name": "MrBeast",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Pinto Beans",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Polish Cow",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Van Man",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "Very Distinguished British Bloke in Formal Attire",
+    "region": "Story Mode",
+    "category": [
+      "Characters"
+    ],
+    "requires": "|Progressive Notebook (Story):2|"
+  }
+]

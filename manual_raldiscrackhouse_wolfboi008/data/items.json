@@ -1,0 +1,186 @@
+[
+  {
+    "count": "10",
+    "name": "Progressive Notebook (Story)",
+    "category": [
+      "Notebooks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "Progressive Exit (Story)",
+    "category": [
+      "Exits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alarm Clock",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Ol' Boots",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "BSODA",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Energy Flavored Zesty Bar",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swinging Door Lock",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Principal's Keys",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WD-NoSquee",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "15 Second Energy",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crackpipe",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ender Pearl",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "GameBoy Color",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Get Out of Jail Free Card",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Glock",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hammer for Sticky Situations",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "iPhone",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Monkenator",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MrBeast's Credit Card",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mystery Tape",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Polish Cow Marker",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Polish Milk",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Balls Poster Access",
+    "category": [
+      "Access"
+    ],
+    "progression": true
+  }
+]
