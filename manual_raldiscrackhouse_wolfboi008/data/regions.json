@@ -1,7 +1,13 @@
 {
   "Story Mode": {
     "starting": true,
-    "connects_to": [],
+    "connects_to": [
+      "Pizza Mode"
+    ],
     "requires": []
+  },
+  "Pizza Mode": {
+    "connects_to": [],
+    "requires": "|Progressive Notebook (Story):10| AND |Progressive Exit (Story):4| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|"
   }
 }

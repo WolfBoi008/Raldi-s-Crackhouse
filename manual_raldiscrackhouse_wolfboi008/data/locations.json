@@ -1,6 +1,6 @@
 [
   {
-    "name": "Pink Notebook (Story)",
+    "name": "1st Notebook (Story)",
     "region": "Story Mode",
     "category": [
       "Story Notebooks"
@@ -16,7 +16,7 @@
     "requires": "|Progressive Notebook (Story):1|"
   },
   {
-    "name": "Dark Blue Notebook (Story)",
+    "name": "2nd Notebook (Story)",
     "region": "Story Mode",
     "category": [
       "Story Notebooks"
@@ -85,7 +85,7 @@
     "category": [
       "Story Notebooks"
     ],
-    "requires": "|Progressive Notebook (Story):2| AND |Hammer for Sticky Situations|"
+    "requires": "|Progressive Notebook (Story):2| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|)"
   },
   {
     "name": "1st Exit (Story)",
@@ -93,7 +93,7 @@
     "category": [
       "Story Exits"
     ],
-    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+    "requires": "|Progressive Notebook (Story):10| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|"
   },
   {
     "name": "2nd Exit (Story)",
@@ -101,7 +101,7 @@
     "category": [
       "Story Exits"
     ],
-    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+    "requires": "|Progressive Notebook (Story):10| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|"
   },
   {
     "name": "3rd Exit (Story)",
@@ -109,7 +109,7 @@
     "category": [
       "Story Exits"
     ],
-    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+    "requires": "|Progressive Notebook (Story):10| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|"
   },
   {
     "name": "4th Exit (Story)",
@@ -117,15 +117,23 @@
     "category": [
       "Story Exits"
     ],
-    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|"
+    "requires": "|Progressive Notebook (Story):10| AND |Progressive Exit (Story):4| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|"
   },
   {
     "name": "Beat Story Mode",
     "region": "Story Mode",
     "category": [
-      "Exits"
+      "Endings"
     ],
-    "requires": "|Progressive Notebook (Story):10| AND |Hammer for Sticky Situations| AND |@Items:9|",
+    "requires": "|Progressive Notebook (Story):10| AND |Progressive Exit (Story):4| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|"
+  },
+  {
+    "name": "Story Mode",
+    "region": "Story Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Notebook (Story):10| AND |Progressive Exit (Story):4| AND (|Hammer for Sticky Situations| OR |Monkenator| OR |Glock|) AND |@Items:9|",
     "victory": true
   },
   {
@@ -375,5 +383,335 @@
       "Characters"
     ],
     "requires": "|Progressive Notebook (Story):2|"
+  },
+  {
+    "name": "1st Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "2nd Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "3rd Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "4th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "5th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "6th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "7th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "8th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "9th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "10th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):2|"
+  },
+  {
+    "name": "11th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "12th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "13th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "14th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "15th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "16th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "17th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "18th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "19th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):10|"
+  },
+  {
+    "name": "1st Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19|"
+  },
+  {
+    "name": "2nd Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19|"
+  },
+  {
+    "name": "3rd Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19|"
+  },
+  {
+    "name": "4th Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):4|"
+  },
+  {
+    "name": "Beat Pizza Mode",
+    "region": "Pizza Mode",
+    "category": [
+      "Endings"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):4|"
+  },
+  {
+    "name": "Pizza Mode",
+    "region": "Pizza Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):4|",
+    "victory": true
+  },
+  {
+    "name": "20th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "21st Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "22nd Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "23rd Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "24th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "25th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "26th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "27th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "28th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "29th Notebook (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Notebooks"
+    ],
+    "requires": "|Progressive Notebook (Pizza):19| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "5th Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):29| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "6th Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):29| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "7th Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):29| AND |Progressive Exit (Pizza):3| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "8th Exit (Pizza)",
+    "region": "Pizza Mode",
+    "category": [
+      "Pizza Exits"
+    ],
+    "requires": "|Progressive Notebook (Pizza):29| AND |Progressive Exit (Pizza):8| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "Complete Lap 2",
+    "region": "Pizza Mode",
+    "category": [
+      "Endings"
+    ],
+    "requires": "|Progressive Notebook (Pizza):29| AND |Progressive Exit (Pizza):8| AND |Lap 2 Portal|"
+  },
+  {
+    "name": "Lap 2",
+    "region": "Pizza Mode",
+    "category": [
+      "Goal"
+    ],
+    "requires":"|Progressive Notebook (Pizza):29| AND |Progressive Exit (Pizza):8| AND |Lap 2 Portal|",
+    "victory": true
   }
 ]

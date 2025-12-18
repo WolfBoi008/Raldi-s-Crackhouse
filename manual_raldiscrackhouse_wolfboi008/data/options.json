@@ -7,8 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "How to End your Randomized playthrough.",
-            "aliases": {"easiest": 0},
+            "description": "Choose your victory condition.\n- Story Mode: Complete Story Mode. Shortest Goal, good for Syncs or those that want something relatively simple (compared to the rest of the game).\n- Pizza Mode: Complete Pizza Mode, which is a faster-paced version of the game that puts a timer on you during the second half. Efficiency and speed are key.\n- Lap 2: Complete Lap 2 in Pizza Mode, requiring you to collect the 10 Notebooks an extra time before truly leaving. Good luck.",
             "hidden": false
         },
         "filler_traps": {

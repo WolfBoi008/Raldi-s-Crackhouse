@@ -16,6 +16,30 @@
     "progression": true
   },
   {
+    "count": "29",
+    "name": "Progressive Notebook (Pizza)",
+    "category": [
+      "Notebooks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 8,
+    "name": "Progressive Exit (Pizza)",
+    "category": [
+      "Exits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lap 2 Portal",
+    "category": [
+      "Portals"
+    ],
+    "progression": true
+  },
+  {
     "count": 1,
     "name": "Alarm Clock",
     "category": [
@@ -121,6 +145,14 @@
   },
   {
     "count": 1,
+    "name": "Half-Eaten Expired Zesty Bar",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Hammer for Sticky Situations",
     "category": [
       "Items"
@@ -130,6 +162,14 @@
   {
     "count": 1,
     "name": "iPhone",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ketchup Squeeze Bottle",
     "category": [
       "Items"
     ],
@@ -153,7 +193,31 @@
   },
   {
     "count": 1,
+    "name": "Mustard Squeeze Bottle",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "Mystery Tape",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Frosted Donut",
+    "category": [
+      "Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Half-Eaten Pink Frosted Donut",
     "category": [
       "Items"
     ],
